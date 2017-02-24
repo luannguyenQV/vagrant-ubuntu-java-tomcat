@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"mount_options":["dmode=776,fmode=777"],"type":"virtualbox","guestpath":"/vagrant","hostpath":"C:/Users/ADMIN/Desktop/Vagrant","disabled":false,"__vagrantfile":true}}}
